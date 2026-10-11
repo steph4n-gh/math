@@ -1,4 +1,6 @@
-# Readme
+# OpenAI math (fork)
+
+> This repository is a fork of [openai/math](https://github.com/openai/math). The text below describes OpenAI's mathematical collection, and first-person statements refer to OpenAI. See the upstream repository for its current version.
 
 This repository contains mathematical manuscripts and supporting proof artifacts produced by an internal OpenAI model. 
 
